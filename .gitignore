@@ -1,0 +1,83 @@
+# General
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Dependencies
+node_modules/
+jspm_packages/
+web_modules/
+
+# Package managers
+.pnp/
+.pnp.loader.mjs
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.yarn/patches/
+.npm/
+.pnpm-store/
+bun.lockb
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+bun-debug.log*
+lerna-debug.log*
+
+# Diagnostics
+report.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+.next/
+out/
+build/
+dist/
+.cache/
+.cache-loader/
+tmp/
+temp/
+
+# Hosting
+.vercel/
+.netlify/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.*
+.envrc
+.env*.local
+
+# Certificates and keys
+*.pem
+*.p12
+*.cer
+*.csr
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript / Next.js
+*.tsbuildinfo
+next-env.d.ts
