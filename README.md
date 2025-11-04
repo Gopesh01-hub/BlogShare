@@ -44,7 +44,7 @@ Create posts with photos, tag friends, react, comment, manage friendships, and s
 ### 2. Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Gopesh01-hub/BlogShare
 cd temp
 npm install
 ```
@@ -229,10 +229,3 @@ Key flows:
 3. Open a pull request describing the change and any schema updates.
 
 Bug reports, feature ideas, and pull requests are very welcome!
-
----
-
-## 📄 License
-
-This project is released under the **MIT License**.  
-Feel free to remix, extend, and deploy it as a foundation for your own social platform.
